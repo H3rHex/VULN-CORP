@@ -3,19 +3,19 @@
 /*GLOBAL IMPORTS*/
 @font-face {/*PARRAFOS...*/
     font-family: 'SourceCode-Regular';
-    src: url(../../ASSETS/FONTS/SourceCodePro-VariableFont_wght.ttf);
+    src: url(../ASSETS/FONTS/SourceCodePro-VariableFont_wght.ttf);
     /*Link del recurso: https://fonts.google.com/download/next-steps*/
 }
 
 @font-face {/**/
     font-family: 'SourceCode-Italic';
-    src: url(../../ASSETS/FONTS/SourceCodePro-Italic-VariableFont_wght.ttf);
+    src: url(../ASSETS/FONTS/SourceCodePro-Italic-VariableFont_wght.ttf);
     /*Link del recurso: https://fonts.google.com/download/next-steps*/
 }
 
 @font-face {/*Titulos,  encabezados...*/
     font-family: 'RockwellCondensed';
-    src: url(../../ASSETS/FONTS/rockwell-condensed.ttf);
+    src: url(../ASSETS/FONTS/rockwell-condensed.ttf);
     /*Link de recurso https://en.maisfontes.com/rockwell-condensed.font*/
 }
 
